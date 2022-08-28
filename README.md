@@ -11,7 +11,7 @@
 I made an electric skateboard with a motor that has bluetooth connectivity to my phone which controls the speed of the skateboard. The baseline version of the electric skateboard lets a user control the speed with their phone using bluetooth. When the bluetooth gets disconnected, the motor will gradually stop and wait until the bluetooth connection gets recovered. 
 
 ## User Guide
-A user would use their phone and bluetooth with an app called ArduinoBlue that can control speed.
+A user will use their phone and bluetooth with an app called [ArduinoBlue](https://sites.google.com/stonybrook.edu/arduinoble/).
 
 When the user moves a joystick up, it will send a signal to the arduino and increment the speed variable. Likewise, when the user moves back the joystick middle or down, it will decrement the speed variable.
 

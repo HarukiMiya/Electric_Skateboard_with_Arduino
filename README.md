@@ -32,7 +32,7 @@ When the user moves a joystick up, it will send a signal to the arduino and incr
 
 ## Complexities
 
-1. Used HC-05 Bluetooth Module to receive the inputs: moving fast, slow, and breaking.
+1. Used HM-11 Bluetooth Module to receive the inputs: moving fast, slow, and breaking.
 2. Used ESC to control the speed.
 3. Created a safe system when bluetooth gets disconnected. 
 

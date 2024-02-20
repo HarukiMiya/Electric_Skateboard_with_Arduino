@@ -7,6 +7,10 @@
 * [Software Libraries Used](#software-libraries-used)
 * [Diagram](#diagram)
 
+## Demo
+[![DEMO1](https://img.youtube.com/vi/OCLN9xIwYrY/default.jpg)](https://youtu.be/OCLN9xIwYrY)
+[![DEMO2](https://img.youtube.com/vi/8VLlF3EO4Mk/default.jpg)](https://youtu.be/8VLlF3EO4Mk)
+
 ## Overview
 I made an electric skateboard with a motor that has bluetooth connectivity to my phone which controls the speed of the skateboard. The baseline version of the electric skateboard lets a user control the speed with their phone using bluetooth. When the bluetooth gets disconnected, the motor will gradually stop and wait until the bluetooth connection gets recovered. 
 
